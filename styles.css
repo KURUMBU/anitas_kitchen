@@ -1,0 +1,15 @@
+#headersection
+
+#section1
+
+#section2
+
+#section3
+
+#section4 {
+    background-image: src=('src/assets/backgrounds/subscribe.jpg');
+}
+
+#footersection {
+    background-color: brown;
+}
