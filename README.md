@@ -31,16 +31,17 @@ This is how to set up and run this code on your computer:
 6. Type ```git clone```, then paste the copied URL of the repository.
 ```git clone https://github.com/USERNAME/REPOSITORYNAME```
 7. Press Enter to create your local clone.
-```$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY```
-```> Cloning into `chosen-directory`...```
-```> remote: Counting objects: 10, done.```
-```> remote: Compressing objects: 100% (8/8), done.```
-```> remove: Total 10 (delta 1), reused 10 (delta 1)```
-```> Unpacking objects: 100% (10/10), done.```
+* $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+* > Cloning into `chosen-directory`...
+* > remote: Counting objects: 10, done.
+* > remote: Compressing objects: 100% (8/8), done.
+* > remove: Total 10 (delta 1), reused 10 (delta 1)
+* > Unpacking objects: 100% (10/10), done.
+
 8. Enjoy!
 
-NB//The repository link is: 
-```https://github.com/KURUMBU/anitas_kitchen.git```
+NB: The repository link is:```https://github.com/KURUMBU/anitas_kitchen.git```
+
 ## Known Bugs
 This current version has no know bugs at the moment
 ## Technologies Used
