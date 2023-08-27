@@ -1,5 +1,5 @@
 header {
-    background-image: URL(Anitas-kitchen/backgrounds/landing.jpg);
+    background-image: URL(src/assets/backgrounds/landing.jpg);
     width: 1400px;
     height: 600px;
 }
@@ -28,7 +28,7 @@ h3 {
 }
 
 .breakfast {
-    background-image: URL(Anitas-kitchen/foodtop/breakfast.jpg);
+    background-image: URL(src/assets/foodtop/breakfast.jpg);
     overflow: hidden;
     height: 210px;
     width: 22.9%;
@@ -58,7 +58,7 @@ h3 {
 } 
 
 .lunch {
-    background-image: URL(Anitas-kitchen/foodtop/lunch.jpg);
+    background-image: URL(src/assets/foodtop/lunch.jpg);
     height: 210px;
     width: 23%;
     overflow: hidden;
@@ -69,7 +69,7 @@ h3 {
 }
 
 .dinner {
-    background-image: URL(Anitas-kitchen/foodtop/dinner.jpg);
+    background-image: URL(src/assets/foodtop/dinner.jpg);
     height: 210px;
     width: 24%;
     overflow: hidden;
@@ -130,7 +130,7 @@ button {
 }
 
 #fastfood {
-    background-image: URL(Anitas-kitchen/backgrounds/foodsBg.jpg);
+    background-image: URL(src/assets/backgrounds/foodsBg.jpg);
     width: 1400px;
     height: 600px;
     margin-top: 50px;
@@ -250,7 +250,7 @@ button {
 } 
 
 #email {
-    background-image: URL(Anitas-kitchen/backgrounds/subscribe.jpg);
+    background-image: URL(src/assets/backgrounds/subscribe.jpg);
     width: 1400px;
     height: 300px;
     text-align: center;
@@ -307,7 +307,7 @@ footer {
     margin-left: 20px;
 }
 
-.pininterest {
+.pinterest {
     margin-left: 20px;
 }
 
