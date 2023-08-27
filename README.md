@@ -9,7 +9,7 @@ Independent Project #4 |
 This is the landing page for a kitchen website. The project is to test my understanding and skill in HTML and CSS up to now. I am to design the page with clear identification from a guiding png provided below;
 | Header | Body | Footer |
 | ------------------------------------| -------------------------------- | ----------------------------------- |
-|![Header](src/Screenshots/header.png)|![Body](src/Screenshots/body.png) |![Footer](src/Screenshots/footer.png)|
+|![Header](src/Screenshots/header.jpg)|![Body](src/Screenshots/body.jpg) |![Footer](src/Screenshots/footer.jpg)|
 
 * The main goal is to create a page that resembles the one provided as exactly as possible.
 
@@ -83,3 +83,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 Copyright (c) {2023} **{Roy Kimari Kurumbu}**
+
+<div align="center">
+    <img alt="Visitor Stats" src="https://widgebite.com/stats/KURUMBU"/>
+</div>    
