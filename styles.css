@@ -6,12 +6,6 @@
 #section3
 
 #section4 {
-    background-image: src=('src/assets/backgrounds/subscribe.jpg');
-}
-
-#section5
-
-#section6 {
     
     height: 90vh;
     height: auto;
@@ -21,7 +15,7 @@
 }
 
 #footersection {
-    background-color: brown;
+    background-color: #f15a29;
     max-width: 700px;
     width: 100%;
     margin: auto;
